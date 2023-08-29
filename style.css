@@ -1,0 +1,72 @@
+.main-container{
+    width: 50%;
+    
+}
+
+
+.container{
+    color: antiquewhite;
+    width: 100%;
+    background-color: grey;
+    flex-direction: row-reverse;
+    
+}
+
+.skillset{
+    text-align: right;
+    padding-right: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.html{
+    width: 85%;
+    background-color:orangered
+}
+
+p{margin-bottom: 0px;}
+
+.jquery{
+    width: 25%;
+    background-color:rgb(5, 5, 44)
+}
+
+.wordpress{
+    width: 90%;
+    background-color: black
+    
+}
+
+.photoshop{
+    width: 35%;
+    background-color: blue
+}
+
+.css{
+    width: 65%;
+    background-color: darkblue
+    
+}
+
+.php{
+    width: 35%;
+    background-color: rgb(60, 60, 224)
+}
+
+.seo{
+    width: 100%;
+    background-color: rgb(25, 138, 25)
+}
+
+.writing{
+    width: 60%;
+    background-color: yellow
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
